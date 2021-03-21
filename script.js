@@ -20,3 +20,5 @@ account.addExpense('Food', 100);
 account.addExpense('clothes', 4588);
 
 console.log(account.getAccountSummary());
+
+// HEHEHEHEHEHHEHEHEHEHEHEHHEHEHEHEHEHEHHEHEHEHEHEHEHHEHEHEHEHHEHEHEHEHEHEHEHHEHEHEHEHEH
